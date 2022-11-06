@@ -11,7 +11,7 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.10.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "jquery": "^3.1.0",
     "laravel-echo": "^1.2.2",
     "laravel-elixir": "^6.0.0-14",
